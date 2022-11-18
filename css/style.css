@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600;700&family=Inter:wght@400;700&family=Raleway&family=Roboto:wght@400;700&display=swap');
+
+.body-container {
+    width: 1152px;
+    height: 2041px;
+
+}
+
+.header-container {
+    width: 1152px;
+    height: 70px;
+
+}
+
+ul {
+    display: flex;
+    column-gap: 33px;
+    padding-top: 27px;
+    padding-left: 885px;
+}
+
+.main-wrapper {
+    display: flex;
+    margin: 40px 137px;
+}
+
+.main-info h1 {
+    width: 506px;
+    height: 105px;
+
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 60px;
+    margin-bottom: 40px;
+}
+
+.main-info {
+    width: 497px;
+    height: 66px;
+
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.diba {
+    width: 243px;
+    height: 243px;
+    border-radius: 50%;
+    margin-left: 115px;
+}
+
+/* end header */
+
+.post-wrapper {
+    width: 1152px;
+    height: 396px;
+    background: #EDF7FA;
+
+}
+
+.post-wrapper h3 {
+    font-family: 'Heebo';
+    font-style: normal;
+    width: 129px;
+    height: 60px;
+    font-weight: 400;
+    font-size: 22px;
+    margin-left: 137px;
+
+}
+
+.main-box {
+    display: flex;
+}
+
+.box {
+    width: 418px;
+    height: 295px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
+    border-radius: 4px;
+    margin-left: 137px;
+    padding: 24px 21px 7px 23px;
+}
+
+.box h2 {
+    width: 374px;
+    height: 85px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 38px;
+}
+
+.box h4 {
+    width: 374px;
+    height: 34px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 17px;
+    margin-bottom: 11px;
+}
+
+.box p {
+    width: 368px;
+    height: 117px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.box2 {
+    width: 418px;
+    height: 295px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
+    border-radius: 4px;
+    margin-left: 137px;
+    padding: 24px 21px 7px 23px;
+}
+
+.box2 h2 {
+    width: 374px;
+    height: 85px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 38px;
+}
+
+.box2 h4 {
+    width: 374px;
+    height: 34px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 17px;
+    margin-bottom: 11px;
+}
+
+.box2 p {
+    width: 368px;
+    height: 117px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+/* works */
+.works-box {
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.allworks {
+    display: flex;
+
+}
+
+.works-main {
+    width: 1152px;
+    height: 868px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 60px;
+    color: #21243D;
+    margin-left: 137px;
+
+
+
+}
+
+.works-text h2 {
+    width: 305px;
+    height: 44px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    color: #21243D;
+}
+
+.works-text h5 {
+    width: 239px;
+    height: 34px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #21243D;
+    margin-left: 80px;
+}
+
+.works-text p {
+    width: 594px;
+    height: 93px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #21243D;
+
+}
+
+.works-text {
+    margin-left: 18px;
+    margin-right: 148px;
+}
+
+.footer-main {
+
+    display: flex;
+    Width: 1152px;
+    Height: 182px;
+    justify-content: center;
+    align-items: center;
+    column-gap: 35px;
+    margin-top: 0px;
+}
+
+
+.bolo p {
+    height: 21px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #21243D;
+
+
+}
