@@ -1,14 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600;700&family=Inter:wght@400;700&family=Raleway&family=Roboto:wght@400;700&display=swap');
 
+
+
 .body-container {
-    width: 1152px;
+    max-width: 1170px;
+    width: 100%;
     height: 2041px;
+    margin: 0 auto;
+    overflow-x: hidden;
+
 
 }
 
 .header-container {
-    width: 1152px;
+    width: 100%;
     height: 70px;
+    display: flex;
+    justify-content: center;
 
 }
 
@@ -17,6 +25,12 @@ ul {
     column-gap: 33px;
     padding-top: 27px;
     padding-left: 885px;
+}
+
+.burger-menu {
+    display: none;
+
+
 }
 
 .main-wrapper {
@@ -37,7 +51,7 @@ ul {
     margin-bottom: 40px;
 }
 
-.main-info {
+.main-info p {
     width: 497px;
     height: 66px;
 
@@ -180,7 +194,7 @@ ul {
 }
 
 .works-main {
-    width: 1152px;
+    width: 100vw;
     height: 868px;
     font-family: 'Heebo';
     font-style: normal;
@@ -237,7 +251,7 @@ ul {
 .footer-main {
 
     display: flex;
-    Width: 1152px;
+    Width: 1150px;
     Height: 182px;
     justify-content: center;
     align-items: center;
